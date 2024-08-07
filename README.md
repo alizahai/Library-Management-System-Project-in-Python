@@ -3,6 +3,7 @@ This project simulates the basic functionalities of a library system, enabling u
 and search for specific titles within the library's collection.
 
 >Features
+
 -Book Management:
 Add New Books: Add new books to the library's inventory, including details such as title, author, and ISBN.
 Remove Books: Remove books from the inventory based on the book title.
