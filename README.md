@@ -19,10 +19,11 @@ Search Books: Allow users to search for books by title, author, or ISBN.
 Persistent Storage: Use CSV files to store and manage book records, ensuring data persistence between sessions.
 Data Integrity: Maintain data integrity by accurately reading from and writing to CSV files, including handling headers and ensuring correct data format.
 
-Key OOP Concepts Applied
-Classes and Objects: Implemented classes for book, library and member.
-Inheritance: Implemented single-level inheritance.
-File I/O: Utilized file handling techniques to read from and write to CSV files, demonstrating real-world data management skills.
+Key OOP Concepts Applied:
+-Classes and Objects: Implemented classes for book, library and member.
+-Inheritance: Implemented single-level inheritance.
+-File I/O: Utilized file handling techniques to read from and write to CSV files, demonstrating real-world data management skills.
+
 Still working to add more concepts like encapsulation etc. 
 
 Feel free to contribute!
